@@ -1,7 +1,6 @@
 # From URL shortener script
 
-https://jamstackmakers.netlify.com/* https://jamstackmakers.com/:splat 301!
-/opensource https://docs.google.com/spreadsheets/d/1tV5w9Fbv2lSXXrizPNHEYGN2sLdJZO66vAXszB_seU4/edit#gid=0
+/opensource  htttps://docs.google.com/spreadsheets/d/1tV5w9Fbv2lSXXrizPNHEYGN2sLdJZO66vAXszB_seU4/edit#gid=0
 /members https://docs.google.com/forms/d/e/1FAIpQLSemtdGeCb8rtAZw1EqH1LF7CMKcyDOFmMc0odTPvEnCOAKobg/viewform 
 /community https://t.me/jamstackmakers
 /twitter https://twitter.com/jamstackmakers
